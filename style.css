@@ -1,0 +1,22 @@
+body{
+background-color: aqua;  
+}
+#timer{
+font-size:xx-large;
+float:right;
+margin: right 37px;
+}
+p{
+font-family: 'Courier New', Courier, monospace;
+font-weight: bold;
+font-size:x-large
+}
+#score{
+    font-size:xx-large;
+    float:left;
+    margin: right 37px;
+    }
+#drawing{
+font-weight: bolder;    
+color: maroon;
+}    
